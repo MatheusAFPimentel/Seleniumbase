@@ -1,0 +1,18 @@
+[INFO ] 2022-02-28 14:34:14.717 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-02-28 14:34:14.746 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-02-28 14:34:22.821 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[INFO ] 2022-02-28 14:34:22.821 [main] btg_automations.actions.HomeAction - Sales
+[INFO ] 2022-02-28 14:34:48.249 [main] btg_automations.actions.HomeAction - Boletador Offshore acessado com sucesso!
+[INFO ] 2022-02-28 14:35:10.877 [main] btg_automations.actions.HomeAction - Página de Seleção do Produto apresentada!
+[INFO ] 2022-02-28 14:35:11.260 [main] btg_automations.actions.HomeAction - Opção de comboBox do ramo foi selecionado!!
+[INFO ] 2022-02-28 14:35:11.582 [main] btg_automations.actions.HomeAction - Opção de comboBox do ramo foi selecionado!!
+[INFO ] 2022-02-28 14:35:15.699 [main] btg_automations.actions.HomeAction - Página de Dados do Tomador apresentada com sucesso!
+[INFO ] 2022-02-28 14:35:20.958 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-02-28 14:35:20.979 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-02-28 14:35:27.165 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[INFO ] 2022-02-28 14:35:27.166 [main] btg_automations.actions.HomeAction - Sales
+[INFO ] 2022-02-28 14:35:51.834 [main] btg_automations.actions.HomeAction - Boletador Offshore acessado com sucesso!
+[INFO ] 2022-02-28 14:36:00.614 [main] btg_automations.actions.HomeAction - Página de Seleção do Produto apresentada!
+[INFO ] 2022-02-28 14:36:01.124 [main] btg_automations.actions.HomeAction - Opção de comboBox do ramo foi selecionado!!
+[INFO ] 2022-02-28 14:36:01.443 [main] btg_automations.actions.HomeAction - Opção de comboBox do ramo foi selecionado!!
+[INFO ] 2022-02-28 14:36:04.071 [main] btg_automations.actions.HomeAction - Página de Dados do Tomador apresentada com sucesso!

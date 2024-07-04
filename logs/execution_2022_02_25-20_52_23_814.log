@@ -1,0 +1,8 @@
+[INFO ] 2022-02-25 20:52:24.695 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-02-25 20:52:24.733 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-02-25 20:52:33.444 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[INFO ] 2022-02-25 20:52:33.445 [main] btg_automations.actions.HomeAction - Sales
+[INFO ] 2022-02-25 20:53:03.545 [main] btg_automations.actions.HomeAction - Boletador Offshore acessado com sucesso!
+[INFO ] 2022-02-25 20:53:10.750 [main] btg_automations.actions.HomeAction - Página de Seleção do Produto apresentada!
+[INFO ] 2022-02-25 20:53:11.428 [main] btg_automations.actions.HomeAction - Opção de comboBox do ramo foi selecionado!!
+[INFO ] 2022-02-25 20:53:11.743 [main] btg_automations.actions.HomeAction - Opção de comboBox do ramo foi selecionado!!

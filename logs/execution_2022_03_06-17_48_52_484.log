@@ -1,0 +1,20 @@
+[INFO ] 2022-03-06 17:48:55.566 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-03-06 17:48:55.655 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-03-06 17:49:05.933 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[INFO ] 2022-03-06 17:49:05.934 [main] btg_automations.actions.HomeAction - Sales
+[ERROR] 2022-03-06 17:50:00.176 [main] btg_automations.utils.SeleniumUtils - Ação sendKeys, elemento - By.xpath: //input[@type='search'][@placeholder='Pesquisar aplicativos e itens…'] não encontrado: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //input[@type='search'][@placeholder='Pesquisar aplicativos e itens…'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'CPX-O0OJKAU5393', ip: '192.168.0.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:/Temp/ChromeProfile}, goog:chromeOptions: {debuggerAddress: localhost:59313}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59313/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2471da5d474b4ec75b9ae911781f0d69
+[INFO ] 2022-03-06 17:50:01.510 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-03-06 17:50:01.526 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-03-06 17:50:08.180 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[INFO ] 2022-03-06 17:50:08.180 [main] btg_automations.actions.HomeAction - Sales
+[ERROR] 2022-03-06 17:51:05.099 [main] btg_automations.utils.SeleniumUtils - Ação sendKeys, elemento - By.xpath: //input[@type='search'][@placeholder='Pesquisar aplicativos e itens…'] não encontrado: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //input[@type='search'][@placeholder='Pesquisar aplicativos e itens…'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'CPX-O0OJKAU5393', ip: '192.168.0.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:/Temp/ChromeProfile}, goog:chromeOptions: {debuggerAddress: localhost:59407}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59407/devtoo..., se:cdpVersion: 98.0.4758.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b24af73b06259b2abc4d977710208546

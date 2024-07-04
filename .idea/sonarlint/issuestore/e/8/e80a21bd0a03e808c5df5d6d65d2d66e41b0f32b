@@ -1,0 +1,18 @@
+
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¯¥›
+P
+java:S1118":Add a private constructor to hide the implicit public one.(õ’¨
+Z
+java:S1854"?Remove this useless assignment to local variable "classLoader".(ƒ¾Œ¹ÿÿÿÿÿ
+n	java:S131"YComplete cases by adding the missing enum constants or add a default case to this switch.(¯¥›
+K
+java:S1481"0Remove this unused "classLoader" local variable.(ƒ¾Œ¹ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÆÊÁ‘
+V	java:S125)"<This block of commented-out lines of code should be removed.(ÅúËÑúÿÿÿÿ
+Q	java:S125F"<This block of commented-out lines of code should be removed.(şõù‰
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ
+?
+java:S1128	")Remove this unused import 'java.io.File'.(†Ğ¥Å
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›

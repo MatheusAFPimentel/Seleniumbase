@@ -1,0 +1,15 @@
+[INFO ] 2022-02-27 00:14:01.417 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-02-27 00:14:01.476 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-02-27 00:14:07.286 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[WARN ] 2022-02-27 00:14:07.287 [main] btg_automations.actions.Login_Action - Página acessada com sucesso
+[INFO ] 2022-02-27 00:14:08.020 [main] btg_automations.actions.Login_Action - Nome colocado com sucesso!
+[INFO ] 2022-02-27 00:14:08.312 [main] btg_automations.actions.Login_Action - Senha colocada com sucesso!
+[ERROR] 2022-02-27 00:14:08.569 [main] btg_automations.actions.Login_Action - Botão Apertado com sucesso!
+[INFO ] 2022-02-27 00:14:16.380 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[WARN ] 2022-02-27 00:14:16.380 [main] btg_automations.actions.Login_Action - Página acessada com sucesso
+[INFO ] 2022-02-27 00:14:16.614 [main] btg_automations.actions.Login_Action - Nome colocado com sucesso!
+[INFO ] 2022-02-27 00:14:16.877 [main] btg_automations.actions.Login_Action - Senha colocada com sucesso!
+[ERROR] 2022-02-27 00:14:17.077 [main] btg_automations.actions.Login_Action - Botão Apertado com sucesso!
+[WARN ] 2022-02-27 00:14:22.019 [main] pdmodel.font.FileSystemFontProvider - New fonts found, font cache will be re-built
+[WARN ] 2022-02-27 00:14:22.019 [main] pdmodel.font.FileSystemFontProvider - Building on-disk font cache, this may take a while
+[WARN ] 2022-02-27 00:14:23.331 [main] pdmodel.font.FileSystemFontProvider - Finished building on-disk font cache, found 390 fonts

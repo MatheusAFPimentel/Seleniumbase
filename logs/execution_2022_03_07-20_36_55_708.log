@@ -1,0 +1,3 @@
+[INFO ] 2022-03-07 20:36:56.239 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-03-07 20:36:56.278 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-03-07 20:37:03.138 [main] btg_automations.utils.SeleniumUtils - Navigate to URL

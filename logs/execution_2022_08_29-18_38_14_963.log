@@ -1,0 +1,4 @@
+[INFO ] 2022-08-29 18:38:16.422 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (resolved driver for Chrome 104)
+[INFO ] 2022-08-29 18:38:16.550 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\allan.santos\.cache\selenium\chromedriver\win32\104.0.5112.79\chromedriver.exe
+[INFO ] 2022-08-29 18:38:25.326 [main] automations.utils.SeleniumUtils - Navigate to URL
+[INFO ] 2022-08-29 18:38:25.326 [main] automations.actions.HomeAction - google

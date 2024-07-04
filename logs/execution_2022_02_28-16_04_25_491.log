@@ -1,0 +1,44 @@
+[INFO ] 2022-02-28 16:04:26.110 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-02-28 16:04:26.154 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-02-28 16:04:38.229 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[WARN ] 2022-02-28 16:04:38.231 [main] btg_automations.actions.LoginAction - Página acessada com sucesso
+[INFO ] 2022-02-28 16:04:39.146 [main] btg_automations.actions.LoginAction - Nome colocado com sucesso!
+[INFO ] 2022-02-28 16:04:39.522 [main] btg_automations.actions.LoginAction - Senha colocada com sucesso!
+[ERROR] 2022-02-28 16:04:39.916 [main] btg_automations.actions.LoginAction - Botão Apertado com sucesso!
+[INFO ] 2022-02-28 16:04:47.273 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-02-28 16:04:47.299 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-02-28 16:04:59.133 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[WARN ] 2022-02-28 16:04:59.134 [main] btg_automations.actions.LoginAction - Página acessada com sucesso
+[INFO ] 2022-02-28 16:04:59.526 [main] btg_automations.actions.LoginAction - Nome colocado com sucesso!
+[INFO ] 2022-02-28 16:04:59.824 [main] btg_automations.actions.LoginAction - Senha colocada com sucesso!
+[ERROR] 2022-02-28 16:05:00.207 [main] btg_automations.actions.LoginAction - Botão Apertado com sucesso!
+[INFO ] 2022-02-28 16:05:07.460 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-02-28 16:05:07.484 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-02-28 16:05:11.617 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[WARN ] 2022-02-28 16:05:11.618 [main] btg_automations.actions.LoginAction - Página acessada com sucesso
+[INFO ] 2022-02-28 16:05:11.881 [main] btg_automations.actions.LoginAction - Nome colocado com sucesso!
+[INFO ] 2022-02-28 16:05:12.135 [main] btg_automations.actions.LoginAction - Senha colocada com sucesso!
+[ERROR] 2022-02-28 16:05:12.367 [main] btg_automations.actions.LoginAction - Botão Apertado com sucesso!
+[INFO ] 2022-02-28 16:05:16.366 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-02-28 16:05:16.384 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-02-28 16:05:19.922 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[WARN ] 2022-02-28 16:05:19.922 [main] btg_automations.actions.LoginAction - Página acessada com sucesso
+[INFO ] 2022-02-28 16:05:20.174 [main] btg_automations.actions.LoginAction - Nome colocado com sucesso!
+[INFO ] 2022-02-28 16:05:20.417 [main] btg_automations.actions.LoginAction - Senha colocada com sucesso!
+[ERROR] 2022-02-28 16:05:20.661 [main] btg_automations.actions.LoginAction - Botão Apertado com sucesso!
+[INFO ] 2022-02-28 16:05:24.663 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-02-28 16:05:24.684 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-02-28 16:05:32.735 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[INFO ] 2022-02-28 16:05:32.735 [main] btg_automations.actions.HomeAction - Sales
+[INFO ] 2022-02-28 16:05:58.592 [main] btg_automations.actions.HomeAction - Boletador Offshore acessado com sucesso!
+[INFO ] 2022-02-28 16:06:07.538 [main] btg_automations.actions.HomeAction - Página de Seleção do Produto apresentada!
+[INFO ] 2022-02-28 16:06:07.935 [main] btg_automations.actions.HomeAction - Opção de comboBox do ramo foi selecionado!!
+[INFO ] 2022-02-28 16:07:09.441 [main] bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[INFO ] 2022-02-28 16:07:09.459 [main] bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\karen.paula.pinto\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+[INFO ] 2022-02-28 16:07:15.281 [main] btg_automations.utils.SeleniumUtils - Navigate to URL
+[INFO ] 2022-02-28 16:07:15.282 [main] btg_automations.actions.HomeAction - Sales
+[INFO ] 2022-02-28 16:07:29.377 [main] btg_automations.actions.HomeAction - Boletador Offshore acessado com sucesso!
+[INFO ] 2022-02-28 16:07:37.423 [main] btg_automations.actions.HomeAction - Página de Seleção do Produto apresentada!
+[INFO ] 2022-02-28 16:07:37.822 [main] btg_automations.actions.HomeAction - Opção de comboBox do ramo foi selecionado!!
+[INFO ] 2022-02-28 16:07:38.010 [main] btg_automations.actions.HomeAction - Opção de comboBox do ramo foi selecionado!!
+[INFO ] 2022-02-28 16:07:43.710 [main] btg_automations.actions.HomeAction - Página de Dados do Tomador apresentada com sucesso!
